@@ -1,12 +1,14 @@
-![](https://github-readme-stats.vercel.app/api?username=litshang)
-<div align=center>
-  <div>
-     ![](https://github-readme-stats.vercel.app/api?username=mayandev)
-  </div>
-  <div>
-     ### Hi👋, I'm Ying-Jie Yang!
-  </div>
-</div>
+<p align="center">&nbsp;
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=litshang&show_icons=true&locale=en" alt="litshang" />
+</p>
+
+<h1 align="center">Hi 👋, I'm Yingjie Yang</h1>
+
+<h3 align="center">A software engineering / mediocre student at Southwest University</h3>
+
+- 😄 I have a great interest in the front and back end
+
+- 📫 How to reach me: **yang192827@163.com**
 
 <!--
 **litshang/litshang** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
