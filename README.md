@@ -2,7 +2,7 @@
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=litshang&show_icons=true&locale=en" alt="litshang" />
 </p>
 
-<h1 align="center">Hi 👋, I'm YANG Yingjie</h1>
+<h1 align="center">Hi 👋, I'm Jackie Yang</h1>
 
 <h3 align="center">A software engineering / mediocre student at Southwest University</h3>
 
