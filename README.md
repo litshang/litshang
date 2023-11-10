@@ -2,11 +2,11 @@
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=litshang&show_icons=true&locale=en" alt="litshang" />
 </p>
 
-<h1 align="center">Hi 👋, I'm Yingjie Yang</h1>
+<h1 align="center">Hi 👋, I'm YANG Yingjie</h1>
 
 <h3 align="center">A software engineering / mediocre student at Southwest University</h3>
 
-- 😄 I have a great interest in the front and back end
+- 😄 I have a great interest in the back end development
 
 - 📫 How to reach me: **yang192827@163.com**
 
